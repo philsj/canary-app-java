@@ -13,4 +13,4 @@ Use in conjuction with the Terraform build infrastructure to create a Java Web A
 # Getting started
 step | commands | notes
 --- | --- | ---
-Install homebrew | /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" | https://brew.sh/
+Install homebrew | `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"` | https://brew.sh/
