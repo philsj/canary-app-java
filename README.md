@@ -11,5 +11,6 @@ A base application for testing - Spring boot Java on Kubernetes
 Use in conjuction with the Terraform build infrastructure to create a Java Web Application.
 
 # Getting started
-| step | commands | notes |
-| Install homebrew | /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" | https://brew.sh/ |
+step | commands | notes
+--- | --- | ---
+Install homebrew | /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" | https://brew.sh/
